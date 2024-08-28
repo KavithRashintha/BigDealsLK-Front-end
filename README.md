@@ -28,7 +28,8 @@ This the product catelog page
 
 This is the product description page
 
-![Screenshot 2024-08-28 152703](https://github.com/user-attachments/assets/c5b2b1c1-52ca-4f5b-9287-c6ccd420aef3)
+![screencapture-localhost-4200-products-product-details-TS005-2024-08-28-15_28_50](https://github.com/user-attachments/assets/d1d987d4-a1cb-474c-82e0-caf84ffe2810)
+
 
 This is the login page
 
